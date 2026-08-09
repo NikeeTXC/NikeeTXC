@@ -4,50 +4,9 @@
 
 Fokus saya sederhana: hasilnya harus cepat, gampang dipakai, dan benar-benar membantu bisnis yang memakainya. Bagian yang paling menyita waktu justru yang tidak kelihatan dari luar — menentukan siapa boleh melihat dan mengubah apa, bagaimana sebuah pesanan berpindah status, dan apa yang harus terjadi kalau ada yang membatalkan di tengah jalan.
 
-🌐 **[klikbayu.web.id](https://klikbayu.web.id)** &nbsp;·&nbsp; 📍 Indonesia &nbsp;·&nbsp; 💬 Terbuka untuk project baru
+Sebagian besar yang saya kerjakan ada di repo privat milik klien. Project yang sudah berjalan beserta ceritanya saya kumpulkan di **[klikbayu.web.id](https://klikbayu.web.id)**.
 
----
-
-## Yang sudah berjalan
-
-### [Lenstha Studio](https://lensthastudio.my.id) &nbsp;<sub>`Company Profile + Booking` · 2026</sub>
-
-Website studio fotografi dengan sistem reservasi online. Calon klien melihat galeri, membaca paket layanan, lalu memesan sendiri tanpa perlu tanya-tanya lewat chat.
-
-- Reservasi dengan kalender jadwal, plus halaman cek booking tanpa perlu login
-- Pembayaran dua tahap (DP dan pelunasan) — customer unggah bukti, admin memverifikasi
-- Tiga level hak akses: customer, admin, dan pemilik studio, masing-masing dengan panelnya sendiri
-- Login lewat akun Google, jadi tidak perlu membuat kata sandi baru
-
-`Laravel 12` `PHP 8.2` `Blade` `Tailwind CSS 4` `MySQL` `Firebase` `Socialite`
-
-→ [Cerita lengkapnya](https://klikbayu.web.id/lenstha-studio/)
-
-### [YPS Auto Service](https://ypsautoservice.com) &nbsp;<sub>`Admin Dashboard` · 2025</sub>
-
-Sistem untuk bengkel spesialis spooring, kaki-kaki, dan sistem kemudi. Dua bagian terpisah: website pelanggan yang ringan, dan dashboard admin Laravel yang menerima data reservasi lewat API.
-
-- Form reservasi di website statis mengirim data ke dashboard Laravel lewat API
-- Data pelanggan dan kendaraan, dengan nomor pelat dijaga unik agar riwayat servis tidak tercerai-berai
-- Penjadwalan, pencatatan pembayaran, laporan, data staf, dan permintaan khusus
-- Autentikasi Sanctum dengan verifikasi email
-
-`Laravel 10` `PHP 8` `Blade` `Alpine.js` `MySQL` `Sanctum`
-
-→ [Cerita lengkapnya](https://klikbayu.web.id/yps-auto-service/)
-
-### Suruhin &nbsp;<sub>`Aplikasi Android` · 2026</sub>
-
-Aplikasi jasa suruhan on-demand — ambil barang, antar dokumen, titip beli. Project paling kompleks yang pernah saya kerjakan: tiga peran pengguna dengan alur yang benar-benar berbeda dalam satu aplikasi.
-
-- Tiga peran: customer, runner, dan admin, masing-masing punya alur dan hak akses sendiri
-- Pelacakan runner di peta memakai OpenStreetMap, lengkap dengan estimasi waktu tiba
-- Chat realtime antara customer dan runner, plus notifikasi status pesanan
-- Sisi runner: pendapatan, saldo, penarikan dana, dan verifikasi admin sebelum boleh bekerja
-
-`Kotlin` `Android SDK 36` `Firebase Auth` `Realtime Database` `OpenStreetMap` `Material Design 3`
-
-→ [Cerita lengkapnya](https://klikbayu.web.id/suruhin/)
+📍 Indonesia &nbsp;·&nbsp; 💬 Terbuka untuk project baru
 
 ---
 
@@ -85,6 +44,5 @@ Aplikasi jasa suruhan on-demand — ambil barang, antar dokumen, titip beli. Pro
 Punya ide project? Ceritakan saja dulu kebutuhannya — belum harus rapi atau lengkap.
 
 [![Portofolio](https://img.shields.io/badge/Portofolio-klikbayu.web.id-F16524?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klikbayu.web.id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281513721491)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayuking038@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/12n_bayy)
