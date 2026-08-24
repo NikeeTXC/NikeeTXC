@@ -50,6 +50,6 @@ Sebagian besar yang saya kerjakan ada di repo privat milik klien. Project yang s
 
 Punya ide project? Ceritakan saja dulu kebutuhannya — belum harus rapi atau lengkap.
 
-[![Portofolio](https://img.shields.io/badge/Portofolio-klikbayu.web.id-F16524?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klikbayu.web.id)
+[![Portofolio](https://img.shields.io/badge/Portofolio-klikbayu.id-F16524?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klikbayu.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayuking038@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/12n_bayy)
