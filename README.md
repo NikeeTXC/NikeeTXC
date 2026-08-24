@@ -4,7 +4,7 @@
 
 Fokus saya sederhana: hasilnya harus cepat, gampang dipakai, dan benar-benar membantu bisnis yang memakainya. Bagian yang paling menyita waktu justru yang tidak kelihatan dari luar — menentukan siapa boleh melihat dan mengubah apa, bagaimana sebuah pesanan berpindah status, dan apa yang harus terjadi kalau ada yang membatalkan di tengah jalan.
 
-Sebagian besar yang saya kerjakan ada di repo privat milik klien. Project yang sudah berjalan beserta ceritanya saya kumpulkan di **[klikbayu.web.id](https://klikbayu.id)**.
+Sebagian besar yang saya kerjakan ada di repo privat milik klien. Project yang sudah berjalan beserta ceritanya saya kumpulkan di **[klikbayu.id](https://klikbayu.id)**.
 
 📍 Indonesia &nbsp;·&nbsp; 💬 Terbuka untuk project baru
 
